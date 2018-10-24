@@ -1,1 +1,1 @@
-def turn_count(space)
+def turn_count

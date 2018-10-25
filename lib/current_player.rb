@@ -1,5 +1,5 @@
 def turn_count(board)
-  board = ["X", "O", "X", "O", "X", "O", "X", "O", "X"]
+  board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
     counter = 0
     board.each do |board|
     counter += 1
